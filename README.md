@@ -1,6 +1,13 @@
 # Hello_World
 Practice Repository
 
-Hey friends
+## This Is Fun 
+I have never done this before.
 
-This is Ian, I am a human that is required to make this to prove my worth as a business analytics major at the University of Iowa. I am also a graphic design major, making me twice as a valuable as another human (not in the slightest). Hopefully I get full points for this assignment. 
+## I am not sure what to do
+I am just going to write stuff 
+
+## Hopefully this is sufficient?
+I really hope so b/c I don't know what else to put
+
+
