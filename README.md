@@ -1,13 +1,16 @@
 # Hello_World
-Practice Repository
+This is a drill.
 
-## This Is Fun 
-I have never done this before.
+## This is Fun.
+I have never done this before
 
-## I am not sure what to do
-I am just going to write stuff 
+## I like animals
+that is true.
 
-## Hopefully this is sufficient?
-I really hope so b/c I don't know what else to put
+## I also like outdoor activities
+that is also true.
 
+## I like to wear wet socks
+that is false.
 
+goodbye.
